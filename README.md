@@ -1,4 +1,4 @@
-# Data-Mining-Questions
+# Practice Data Mining Questions for CSCI 5502/4502
 This repo is a collection of questions that I will create for students in the Data Mining course, CSCI 4502/5502 I am TAing for, taught by Dr. Ravi Starzl. There will be one question a week.
 
 There are a total of 5 questions.
